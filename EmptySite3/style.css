@@ -74,6 +74,15 @@ aside
 footer
 {
     background-color: #00ff90;
-    clear: both;
+    clear: both;   
+    margin: auto;
+    padding: 0px;
+  
+   
     
+}
+
+#footerT
+{
+    background-color: #808080;
 }
